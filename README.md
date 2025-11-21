@@ -113,4 +113,4 @@ pyinstaller --onefile --console --name "漏洞提取工具V3.0" zhuanhuan.py
 
 ## 许可证
 
-本项目为内部工具，仅供授权使用。
+本项目仅供学习使用。
